@@ -1,2 +1,1 @@
-App 
-(./images/Group 2.png
+<img src="./images/group-2.png" alt="Диаграмма архитектуры" width="800">
